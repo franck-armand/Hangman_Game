@@ -20,6 +20,7 @@ python skill.
 ########################### REQUIREMENTS #########################################
 
 install python 
+
 install pygame 
 
 ########################## TAKE THE GAME TO THE NEXT LEVEL ############################
