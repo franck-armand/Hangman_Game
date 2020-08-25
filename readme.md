@@ -1,5 +1,5 @@
 
-############################# HANGMAN GAME by Franck ###########################################
+############################# HANGMAN GAME by Franck ######################################
 
 A list of word is given to the computer, and ramdomly
 selected by the program, I made use of the random module.
@@ -17,12 +17,12 @@ This is a pretty simple game, but cool for beginners in python especially
 it covers a lot of key concepts that will help you build your 
 python skill. 
 
-########################### REQUIREMENTS ######################################################
+########################### REQUIREMENTS ##################################################
 
 install python 
 
 install pygame 
 
-########################## TAKE THE GAME TO THE NEXT LEVEL ####################################
+########################## TAKE THE GAME TO THE NEXT LEVEL ###############################
 
 This program can of course be edited and improved so feel free to do so
